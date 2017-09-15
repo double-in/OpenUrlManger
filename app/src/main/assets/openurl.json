@@ -1,0 +1,22 @@
+{
+  "recharge":{
+    "needLogin":true,
+    "uiClass":"com.xiawe_i.openurl.activity.RechargeActivity",
+    "openUrlContext":"com.xiawe_i.openurl.openurl.OpenUrlContext"
+  },
+  "orderDetail":{
+    "needLogin":true,
+    "uiClass":"com.xiawe_i.openurl.activity.OrderDetailActivity",
+    "openUrlContext":"com.xiawe_i.openurl.openurl.OpenUrlContext"
+  },
+  "cardList":{
+    "needLogin":true,
+    "uiClass":"com.xiawe_i.openurl.activity.CardListActivity",
+    "openUrlContext":"com.xiawe_i.openurl.openurl.OpenUrlContext"
+  },
+  "voucherList":{
+    "needLogin":true,
+    "uiClass":"com.xiawe_i.openurl.activity.VoucherListActivity",
+    "openUrlContext":"com.xiawe_i.openurl.openurl.OpenUrlContext"
+  }
+}
