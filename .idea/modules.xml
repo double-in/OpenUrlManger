@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OpenUrl.iml" filepath="$PROJECT_DIR$/OpenUrl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenUrlManger.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenUrlManger.iml" group="OpenUrlManger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OpenUrlManger-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OpenUrlManger-app.iml" group="OpenUrlManger/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
